@@ -6,4 +6,5 @@ export interface ResultProps {
   result: string | null;
   winCount: number;
   loseCount: number;
+  handleReset: () => void;
 }

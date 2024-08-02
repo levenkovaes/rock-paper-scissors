@@ -14,15 +14,15 @@ const App: React.FC = () => {
             align="center"
             color="success.dark"
             gutterBottom
-            mt={6}
-            mb={4}
+            mt={4}
+            mb={2}
             sx={{
               fontSize: {
                 xs: "2rem",
                 sm: "2.5rem",
                 md: "3rem",
-                lg: "4rem",
-                xl: "5rem",
+                lg: "3.5rem",
+                xl: "4rem",
               },
             }}
           >

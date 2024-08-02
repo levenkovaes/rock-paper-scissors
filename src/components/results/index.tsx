@@ -9,6 +9,7 @@ const Result: React.FC<ResultProps> = ({
   result,
   winCount,
   loseCount,
+  handleReset,
 }) => {
   return (
     <>
@@ -79,7 +80,11 @@ const Result: React.FC<ResultProps> = ({
         {result?.toUpperCase()}
       </Typography>
 
-      <TotalScore winCount={winCount} loseCount={loseCount} />
+      <TotalScore
+        winCount={winCount}
+        loseCount={loseCount}
+        handleReset={handleReset}
+      />
     </>
   );
 };
