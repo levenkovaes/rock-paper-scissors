@@ -29,6 +29,7 @@ In this Rock Paper Scissors game you can challenge the computer by choosing rock
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/95fa4180-6a9c-499a-84d9-50fbb6ac1c9c)
+___
 ![image](https://github.com/user-attachments/assets/11885fc9-30aa-4316-a927-558e48c143cb)
 
 ## License
