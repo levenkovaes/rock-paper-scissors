@@ -27,6 +27,10 @@ In this Rock Paper Scissors game you can challenge the computer by choosing rock
 ## Usage
     $ npm start
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/95fa4180-6a9c-499a-84d9-50fbb6ac1c9c)
+![image](https://github.com/user-attachments/assets/11885fc9-30aa-4316-a927-558e48c143cb)
+
 ## License
 This project is licensed under the MIT license <br> 
 Copyright © 2024 [Ekaterina Levenkova](https://github.com/levenkovaes)
